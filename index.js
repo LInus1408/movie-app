@@ -1,4 +1,4 @@
-alert('please enable VPN');
+alert('If you are from Belarus or Russia, please enable VPN. The site will not work without a VPN.');
 
 function clearPage() {
   const main = document.querySelector(".main");

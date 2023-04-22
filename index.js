@@ -1,3 +1,5 @@
+alert('please enable VPN');
+
 function clearPage() {
   const main = document.querySelector(".main");
   main.innerHTML = "";
